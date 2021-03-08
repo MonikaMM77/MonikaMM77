@@ -1,8 +1,9 @@
 # Hi there my name is Monika
-I am fresh graduated from a Front-End Developer course. 
-Now I am searching for a Job where I can live my creativity and coding passion. Developing websites that are intuitive and had a great user experience are my goals. I am searching for a company where I can build up my knowledge and give in return a high motivated employee to succes tasks, projects and orders from the customers.  
+I graduated from a Frontend Development Course and therefore I am looking for a job or an internship where I could make use of my creativity and passion for coding. I am motivated and learn quickly. I consider myself to be a results-oriented and thorough person, who likes to work in an organized fashion to get things done as fast as possible. I am always keen to improve my performance and that is why I aim a big fan of a continuous learning. Coming from Poland and living in Germany I really enjoy working in a multi-cultural environment.
 
-[<img src="https://previews.123rf.com/images/tashatuvango/tashatuvango1805/tashatuvango180500243/101873571-job-opening-front-end-developer-3d-.jpg">]()
+Creating responsive and intuitive websites that provide great user experience is my goal. I am looking for a company where I could build my knowledge and develop myself as a frontend developer. In return I will go an extra mile to take care of the given tasks and projects.
+
+Sounds good? Then hit that contact button!
 
 ## **Junior Front-End Developer**  
 
