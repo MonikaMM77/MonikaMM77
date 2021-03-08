@@ -23,13 +23,8 @@ This is a short overview of my Skills:
 [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" width="5%" height="5%">]()
 [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" width="5%" height="5%">]()
 [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" width="5%" height="5%">]()
-[<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" width="5%" height="5%">]()
 [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" width="5%" height="5%">]()
 [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" width="5%" height="5%">]()
-[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Netlify_logo.svg/147px-Netlify_logo.svg.png">]()
 
 ### Check out my CV. I'm looking for Job offers
 <g-emoji class="g-emoji" alias="paperclip" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ce.png">📎</g-emoji> <a href="https://github.com/MonikaMM77/CV-Monika-Mitka/blob/main/Monika%20Mitka%20Curriculum%20Vitae.pdf">CV Monika Mitka
-
-### Visitors on Profile
-![visitors](https://visitor-badge.glitch.me/badge?page_id="MonikaMM77"."MonikaMM77")
