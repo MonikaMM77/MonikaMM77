@@ -1,15 +1,15 @@
 # Hi there my name is Monika
 I am fresh graduated from a Front-End Developer course. 
-Now I am searching for a Job where I can live my creativity and coding passion. Developing websites that are intuitive and had a great User experience are my goals. I am searching for a company where I can build up my knowledge and give in return a high motivated employee to succes task, projects and orders from the customers.  
+Now I am searching for a Job where I can live my creativity and coding passion. Developing websites that are intuitive and had a great user experience are my goals. I am searching for a company where I can build up my knowledge and give in return a high motivated employee to succes tasks, projects and orders from the customers.  
 
 [<img src="https://previews.123rf.com/images/tashatuvango/tashatuvango1805/tashatuvango180500243/101873571-job-opening-front-end-developer-3d-.jpg">]()
 
 ## **Junior Front-End Developer**  
 
 **Preferred Location:**
-- Germany 🇩🇪
+- Germany [<img src="https://camo.githubusercontent.com/3a1ffef629b1cb43cbb208a22daa20dc8c38ac208ddd041ebe212aec61b35f88/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f622f62612f466c61675f6f665f4765726d616e792e737667" style="max-width:3%;">]()
   - Munich
-- Poland 🇵🇱
+- Poland [<img src="https://camo.githubusercontent.com/88a2286b038d933784334ac3471bf5163e7672af821e1e1dd0fff2bd15f86339/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f312f31322f466c61675f6f665f506f6c616e642e737667" style="max-width:3%;">]() 
   - Krakow
 
 :mailbox: Reach me out!
