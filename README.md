@@ -31,3 +31,5 @@ This is a short overview of my Skills:
 ### Check out my CV. I'm looking for Job offers
 <g-emoji class="g-emoji" alias="paperclip" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ce.png">📎</g-emoji> <a href="https://github.com/MonikaMM77/CV-Monika-Mitka/blob/main/Monika%20Mitka%20Curriculum%20Vitae.pdf">CV Monika Mitka
 
+### Visitors on Profile
+![visitors](https://visitor-badge.glitch.me/badge?page_id="MonikaMM77"."MonikaMM77")
