@@ -7,9 +7,9 @@ Now I am searching for a Job where I can live my creativity and coding passion. 
 ## **Junior Front-End Developer**  
 
 **Preferred Location:**
-- Germany :de:
+- Germany 🇩🇪
   - Munich
-- Poland :pl:
+- Poland 🇵🇱
   - Krakow
 
 :mailbox: Reach me out!
